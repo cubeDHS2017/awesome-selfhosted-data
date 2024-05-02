@@ -1,0 +1,11 @@
+name: "Anytype"
+website_url: "https://anytype.io/"
+source_code_url: "https://github.com/anyproto"
+description: "An open source note taking app with syncing capabilites and colaboration (alternative to Notion)"
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - note-taking--editors
